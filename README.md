@@ -1,5 +1,5 @@
 # Pomodoro-GUI-Application
-Certainly, here's a brief description of your Pomodoro GUI application code:
+Here's a brief description of your Pomodoro GUI application code:
 
 The code creates a graphical Pomodoro timer using the tkinter library in Python.
 
